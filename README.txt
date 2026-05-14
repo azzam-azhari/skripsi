@@ -1,28 +1,32 @@
-🚨Peringatan🚨
-1. Perlu di ingat bahwasannya aplikasi ini dianjurkan untuk menggunakan handphone dengan RAM diatas 4, karena aplikasi ini membutuhkan performa yang cukup besar dalam menggunakan "AR Kamera". Pada perangkat yang beragam, mungkin terjadi variasi dalam tampilan aplikasi.
-2. Aplikasi ini dibuat hanya untuk perusahaan "Pondok Jati Jeporo" Siman Ponorogo.
-3. Aplikasi sudah siap digunakan pada folder "Build Aplikasi penempatan Furnitur".
-4. Projek Unity Pada folder "ARFurnitur".
-5. SDK tersedia pada folder "SDK".
+# Dokumentasi Proyek AR Furnitur
 
---------------------Untuk Azzam🚨---------------------------
-Backup data di hardisk Data (F:)/Skripsi
+## 🚨 Peringatan Penting
+* **Spesifikasi Perangkat:** Dianjurkan menggunakan smartphone dengan **RAM > 4GB** untuk performa "AR Kamera" yang optimal.
+* **Lisensi Penggunaan:** Aplikasi ini eksklusif dibuat untuk perusahaan **"Pondok Jati Jeporo" Siman Ponorogo**.
+* **Variasi Tampilan:** Tampilan aplikasi mungkin bervariasi tergantung pada jenis perangkat yang digunakan.
 
-Blender 3.
+## 📁 Lokasi & Struktur File
+* **Build Aplikasi:** Tersedia di folder `Build Aplikasi penempatan Furnitur`.
+* **Project Unity:** Tersedia di folder `ARFurnitur`.
+* **SDK:** Tersedia di folder `SDK`.
+* **Backup Data:** Hardisk `(F:)/Skripsi`.
 
-Vuforia:
-Name: Azzam Azhari
-E-mail: azzamazhari051@gmail.com
-Company: Student
-Country: ID
-Username: azzamazhari
-Password:
-Change Password:
+## 🔑 Informasi Akun
 
-Unity: 
-E-mail: artistastr@gmail.com
-username: Azzam Artista
+### Vuforia
+* **Nama:** Azzam Azhari
+* **E-mail:** azzamazhari051@gmail.com
+* **Username:** azzamazhari
+* **Company:** Student
+* **Country:** ID
 
-Muh Azzam Azhari M
-Rabu, 18 September 2024
+### Unity
+* **E-mail:** artistastr@gmail.com
+* **Username:** Azzam Artista
 
+## 🛠️ Catatan Pengembangan
+* **Software Modeler:** Blender 3.
+
+---
+**Author:** Muh Azzam Azhari M  
+**Tanggal:** Rabu, 18 September 2024
